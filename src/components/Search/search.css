@@ -1,0 +1,14 @@
+.container{
+    text-align: center;
+}
+table{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(153, 67, 67);
+    text-align: center;
+}
+
+.inp{
+    margin: 10px;
+    height: 30px;
+    border: 1px solid rgb(153, 67, 67);;
+}

@@ -1,0 +1,42 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+.navbar{
+    padding-bottom: 2%;
+    width: 100%;
+    padding-top: 2%;
+    background-color: #a36c22;
+}
+.navbar h2{
+        margin-left: 85px;
+}
+.write input{
+    margin-left: 34%;
+    position: absolute;
+    margin-top: -27px;
+    width: 290px;
+    height: 38px;
+    border-radius: 18px;
+    border: 2px solid black;
+}
+input[type=text], select {
+    width: 26%;
+    margin-left: 31%;
+    padding: 12px 20px;
+    /* margin: 11px 0; */
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+.btn{
+    margin-left: 61%;
+    position: absolute;
+    margin-top: -2%;
+    padding: 13px;
+    border-radius: 9px;
+    border: 2px solid black;
+    background-color: #cecef3;
+}
